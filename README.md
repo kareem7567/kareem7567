@@ -22,6 +22,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+
+
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
@@ -38,7 +40,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
 
 ### 📊 Github Stats
 <a href='https://github.com/kareem7567?tab=overview&from=2025-07-01&to=2025-07-31'>
